@@ -23,7 +23,7 @@ pip install -e .
 
 ### Download PatCID Dataset 
 
-The PatCID dataset is available on [Zenodo](https://doi.org/10.5281/zenodo.10572870).
+The [PatCID dataset is available on Zenodo](https://doi.org/10.5281/zenodo.10572870).
 ```
 wget https://zenodo.org/records/10572870/files/patcid.zip?download=1 -O patcid.zip
 unzip patcid.zip -d ./data/patcid/
@@ -39,13 +39,13 @@ Run the notebook `./examples/patent_query.ipynb` to use PatCID to retrieve molec
 
 ### User Interface 
 
-https://media.github.ibm.com/user/374154/files/9d14ac52-3d03-408a-8f97-1c34159ac26d
+https://github.com/DS4SD/PatCID/assets/73230090/0fc7c2bd-ce1b-4ded-a278-7d9c4c277244
 
 To request access to the above user interface, please contact the IBM's [Deep Search](https://ds4sd.github.io/) team at deepsearch-core@zurich.ibm.com.
 
 ### Benchmark Datasets
 
-The benchmarks datasets D2C-UNI and D2C-RND are available on [Zenodo](https://doi.org/10.5281/zenodo.10978812).
+The benchmarks datasets [D2C-UNI and D2C-RND are available on Zenodo](https://doi.org/10.5281/zenodo.10978812).
 
 ### Code 
 
