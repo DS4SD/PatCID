@@ -39,7 +39,7 @@ Run the notebook `./examples/patent_query.ipynb` to use PatCID to retrieve molec
 
 ### User Interface 
 
-https://media.github.ibm.com/user/374154/files/9d14ac52-3d03-408a-8f97-1c34159ac26d
+https://github.com/DS4SD/PatCID/assets/73230090/0fc7c2bd-ce1b-4ded-a278-7d9c4c277244
 
 To request access to the above user interface, please contact the IBM's [Deep Search](https://ds4sd.github.io/) team at deepsearch-core@zurich.ibm.com.
 
