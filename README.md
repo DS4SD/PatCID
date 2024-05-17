@@ -23,7 +23,7 @@ pip install -e .
 
 ### Download PatCID Dataset 
 
-The PatCID dataset is available on [Zenodo](https://doi.org/10.5281/zenodo.10572870).
+The [PatCID dataset is available on Zenodo](https://doi.org/10.5281/zenodo.10572870).
 ```
 wget https://zenodo.org/records/10572870/files/patcid.zip?download=1 
 unzip patcid.zip -d ./data/patcid/
@@ -45,7 +45,7 @@ To request access to the above user interface, please contact the IBM's [Deep Se
 
 ### Benchmark Datasets
 
-The benchmarks datasets D2C-UNI and D2C-RND are available on [Zenodo](https://doi.org/10.5281/zenodo.10978812).
+The benchmarks datasets [D2C-UNI and D2C-RND are available on Zenodo](https://doi.org/10.5281/zenodo.10978812).
 
 ### Code 
 
