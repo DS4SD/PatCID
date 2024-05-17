@@ -25,8 +25,8 @@ pip install -e .
 
 The PatCID dataset is available on [Zenodo](https://doi.org/10.5281/zenodo.10572870).
 ```
-wget https://zenodo.org/records/10572870/files/patcid.zip?download=1 -P ./data/patcid/
-unzip ./data/patcid/patcid.zip
+wget https://zenodo.org/records/10572870/files/patcid.zip?download=1 
+unzip patcid.zip -d ./data/patcid/
 ```
 
 ### Document Retrieval
