@@ -23,8 +23,10 @@ pip install -e .
 
 ### Download PatCID Dataset 
 
-The PatCID dataset is available on [Zenodo]().
+The PatCID dataset is available on [Zenodo](https://doi.org/10.5281/zenodo.10572870).
 ```
+wget https://zenodo.org/records/10572870/files/patcid.zip?download=1 -P ./data/patcid/
+unzip ./data/patcid/patcid.zip
 ```
 
 ### Document Retrieval
@@ -43,7 +45,7 @@ To request access to the above user interface, please contact the IBM's [Deep Se
 
 ### Benchmark Datasets
 
-The benchmarks datasets D2C-UNI and D2C-RND are available on [Zenodo]().
+The benchmarks datasets D2C-UNI and D2C-RND are available on [Zenodo](https://doi.org/10.5281/zenodo.10978812).
 
 ### Code 
 
@@ -63,7 +65,7 @@ The model weights are available on Hugging Face:
 ### Training Datasets
 
 The training datasets are available on Zenodo and Hugging Face:
-- The [image classification model dataset]()
+- The [image classification model dataset](https://doi.org/10.5281/zenodo.10978564)
 - The [molecule recognition model dataset](https://huggingface.co/datasets/ds4sd/MolGrapher-Synthetic-300K).
 
 ### Additional Visualization
