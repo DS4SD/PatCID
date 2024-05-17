@@ -93,11 +93,9 @@ def display_molecules_locations(pages, patent_entry, max_pages_per_row=1, max_pa
                         print(f"*{i2}: {smiles}*")
                     else:
                         print(f"{i2}: {smiles}")
-            plt.savefig(str(page_index) + ".png", dpi=300)
+            #plt.savefig(str(page_index) + ".png", dpi=300)
             plt.show()
-            
             plt.close()
-            
             display_bloc = []
     pprint(highlight_smiles_counts)
 
