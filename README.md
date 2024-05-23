@@ -1,8 +1,5 @@
 # PatCID
 
-[![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-USPTO%0A30K-blue)](https://huggingface.co/datasets/ds4sd/USPTO-30K/)
-[![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-MolGrapher%0ASynthetic%0A300K-blue)](https://huggingface.co/datasets/ds4sd/MolGrapher-Synthetic-300K)
-
 This is the repository for [PatCID: an open-access dataset of chemical structures in patent documents]().
 
 ![MolGrapher](assets/introduction.png)
