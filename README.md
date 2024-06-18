@@ -25,7 +25,7 @@ The [PatCID dataset is available on Zenodo](https://doi.org/10.5281/zenodo.10572
 wget https://zenodo.org/records/10572870/files/patcid.zip?download=1 -O patcid.zip
 unzip patcid.zip -d ./data/patcid/
 ```
-(Download file format: `.jsonl`; size: `5.7 GB`)
+(Download size: `5.7 GB`, files format: `.jsonl`)
 
 ### Document Retrieval
 
