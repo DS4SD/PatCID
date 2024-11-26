@@ -75,7 +75,7 @@ To test our processing pipeline outside its main application domain, we process 
 If you find this repository useful, please consider citing:
 
 ```
-﻿@Article{Morin2024,
+@Article{Morin2024,
     author={Morin, Lucas
     and Weber, Val{\'e}ry
     and Meijer, Gerhard Ingmar
