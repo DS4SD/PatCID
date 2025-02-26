@@ -13,11 +13,6 @@ conda create -n patcid python=3.11
 conda activate patcid
 ```
 
-Install pdfinfo. For Debian-based Linux distributions: 
-```
-sudo apt-get install poppler-utils
-```
-
 Install python dependencies.
 ```
 pip install -e .
