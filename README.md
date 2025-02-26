@@ -12,6 +12,11 @@ Create a virtual environment.
 conda create -n patcid python=3.11
 conda activate patcid
 ```
+Install poppler.
+```
+Linux: apt-get install poppler-utils 
+Mac: brew install poppler 
+```
 
 Install python dependencies.
 ```
