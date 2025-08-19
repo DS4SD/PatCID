@@ -80,22 +80,18 @@ To test our processing pipeline outside its main application domain, we process 
 If you find this repository useful, please consider citing:
 
 ```
-@Article{Morin2024,
-    author={Morin, Lucas
-    and Weber, Val{\'e}ry
-    and Meijer, Gerhard Ingmar
-    and Yu, Fisher
-    and Staar, Peter W. J.},
-    title={PatCID: an open-access dataset of chemical structures in patent documents},
-    journal={Nature Communications},
-    year={2024},
-    month={Aug},
-    day={02},
-    volume={15},
-    number={1},
-    pages={6532},
-    issn={2041-1723},
-    doi={10.1038/s41467-024-50779-y},
-    url={https://doi.org/10.1038/s41467-024-50779-y}
+@article{Morin2024,
+	title        = {{PatCID: an open-access dataset of chemical structures in patent documents}},
+	author       = {Morin, Lucas and Weber, Val{\'e}ry and Meijer, Gerhard Ingmar and Yu, Fisher and Staar, Peter W. J.},
+	year         = 2024,
+	month        = {Aug},
+	day          = {02},
+	journal      = {Nature Communications},
+	volume       = 15,
+	number       = 1,
+	pages        = 6532,
+	doi          = {10.1038/s41467-024-50779-y},
+	issn         = {2041-1723},
+	url          = {https://doi.org/10.1038/s41467-024-50779-y}
 }
 ```
