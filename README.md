@@ -4,6 +4,27 @@ This is the repository for [PatCID: an open-access dataset of chemical structure
 
 ![MolGrapher](assets/introduction.png)
 
+### Citation
+
+If you find this repository useful, please consider citing:
+
+```
+@article{Morin2024,
+	title        = {{PatCID: an open-access dataset of chemical structures in patent documents}},
+	author       = {Morin, Lucas and Weber, Val{\'e}ry and Meijer, Gerhard Ingmar and Yu, Fisher and Staar, Peter W. J.},
+	year         = 2024,
+	month        = {Aug},
+	day          = {02},
+	journal      = {Nature Communications},
+	volume       = 15,
+	number       = 1,
+	pages        = 6532,
+	doi          = {10.1038/s41467-024-50779-y},
+	issn         = {2041-1723},
+	url          = {https://doi.org/10.1038/s41467-024-50779-y}
+}
+```
+
 ### Installation
 
 Create a virtual environment.
@@ -74,24 +95,3 @@ The training datasets are available on Zenodo and Hugging Face:
 ### Additional Visualization
 
 To test our processing pipeline outside its main application domain, we process a [scientific publication](https://chemrxiv.org/engage/chemrxiv/article-details/662d287a91aefa6ce198f9b8) published on ChemRxiv. `./data/extra/scientific_paper_example/` contains the pages of the document (`page_*.png`) annotated with the segmentation and classification predictions. For pages containing molecules, the predicted molecules are provided in `page_*_molecules.txt`.
-
-### Citation
-
-If you find this repository useful, please consider citing:
-
-```
-@article{Morin2024,
-	title        = {{PatCID: an open-access dataset of chemical structures in patent documents}},
-	author       = {Morin, Lucas and Weber, Val{\'e}ry and Meijer, Gerhard Ingmar and Yu, Fisher and Staar, Peter W. J.},
-	year         = 2024,
-	month        = {Aug},
-	day          = {02},
-	journal      = {Nature Communications},
-	volume       = 15,
-	number       = 1,
-	pages        = 6532,
-	doi          = {10.1038/s41467-024-50779-y},
-	issn         = {2041-1723},
-	url          = {https://doi.org/10.1038/s41467-024-50779-y}
-}
-```
